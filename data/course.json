@@ -1,0 +1,65 @@
+{
+  "term": "Spring",
+  "year": "2014",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Leadership"
+    ],
+    [
+      "Social Science",
+      "Political Science",
+      "American Politics"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Public Policy"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Social Welfare"
+    ],
+    [
+      "Society",
+      "Gender Studies"
+    ],
+    [
+      "Society",
+      "Women's Studies"
+    ]
+  ],
+  "legacy_uid": "18f30b4e-be6a-e042-44d9-b6fdf7de4e9e",
+  "instructors": {
+    "content": [
+      "8303ca4d-9d36-d797-d293-0c92f9733c8e"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "2888e7c9-3814-bc3a-de69-01fbee38bb10",
+    "website": "wgs-s10-gender-power-leadership-and-the-workplace-spring-2014"
+  },
+  "course_title": "Gender, Power, Leadership, and the Workplace",
+  "course_description": "This course will provide students with an analytic framework to understand the roles that gender, race, and class play in defining and determining access to leadership and power in the U.S., especially in the context of the workplace. We will explore women and men in leadership positions within the corporate, political and non-profit sectors, with attention to the roles of women of color and immigrant women within this context. We will also look at specific policies such as affirmative action, parental leave, child-care policy, and working-time policies and the role they play\u2013or could play\u2013in achieving parity. We will further investigate ways in which these policies address gender, racial, and class inequities, and think critically about mechanisms for change. The course will be highly interactive, and will combine texts, theater, videos and visual arts.\n",
+  "department_numbers": [
+    "WGS"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "WGS.S10",
+  "course_image_thumbnail": {
+    "content": "84203df8-4897-cccf-d94f-ecff9ec7bc7b",
+    "website": "wgs-s10-gender-power-leadership-and-the-workplace-spring-2014"
+  },
+  "learning_resource_types": [
+    "Written Assignments with Examples",
+    "Instructor Insights"
+  ],
+  "site_uid": "49171668-c83d-4c84-a5cf-4019d33e3765",
+  "site_short_id": "wgs.s10-spring-2014",
+  "title": "Course Metadata"
+}
